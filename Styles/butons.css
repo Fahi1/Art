@@ -1,0 +1,49 @@
+.Like_button{
+    background-color:rgb(101, 101, 248);
+    color:white;
+    border-radius: 3px;
+    border:none;
+    cursor:pointer;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:10px;
+    padding-right:10px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+.Like_button:hover{
+    opacity:0.6;
+    
+}
+.Like_button:active{
+    cursor: progress;
+    padding-top:4.8px;
+    padding-bottom:4.8px;
+    padding-left:9.8px;
+    padding-right:9.8px 
+}
+.progress {cursor: progress;}
+
+.Sub_button{
+    background-color:rgb(241, 16, 16);
+    color:white;
+    border:none;
+    border-radius: 5px;
+    cursor:pointer;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:10px;
+    padding-right:10px
+}
+.Sub_button:hover{
+    opacity:0.6;
+    
+}
+.Sub_button:active{
+    cursor: progress;
+    padding-top:4.8px;
+    padding-bottom:4.8px;
+    padding-left:9.8px;
+    padding-right:9.8px 
